@@ -2,6 +2,7 @@
 
 * Project description
 * Framework
+* Libraries
 * Screenshots
 
 ## Project Description
@@ -15,6 +16,12 @@ Unknown feelings should be correctly handled.
 ## Framework
 
 Kivy
+
+## Libraries
+- json
+- datetime
+- pathlib
+- random
 
 ## Screenshots
 
