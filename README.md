@@ -2,7 +2,7 @@
 
 * Project description
 * Framework
-* Libraries
+* Dependencies
 * Screenshots
 
 ## Project Description
@@ -17,11 +17,9 @@ Unknown feelings should be correctly handled.
 
 Kivy
 
-## Libraries
-- json
-- datetime
+## Dependencies
+- glob
 - pathlib
-- random
 
 ## Screenshots
 
